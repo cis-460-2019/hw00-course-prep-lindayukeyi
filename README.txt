@@ -5,4 +5,6 @@
 # STEP4: setup the env- compiler
 # STEP5: RUN
 # STEP6: cd hw00
-# STEP7: git add E:\cis560\README.txt
+# STEP7: git add E:\cis560\hw00\README.txt
+# STEP8: git commit -m "Adding README"
+# STEP9: git push
